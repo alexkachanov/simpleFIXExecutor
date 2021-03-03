@@ -1,1 +1,1 @@
-%JAVA_HOME%\bin\java -showversion -Xms1800m -Xmx1800m -XX:MaxMetaspaceSize=2g -jar target/simplefixexecutor-0.0.1-SNAPSHOT.jar
+%JAVA_HOME%\bin\java -showversion -verbose:gc -XX:+PrintGCDetails -Xms1800m -Xmx1800m -XX:MaxMetaspaceSize=2g -jar target/simplefixexecutor-0.0.1-SNAPSHOT.jar
