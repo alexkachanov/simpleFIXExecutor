@@ -32,7 +32,7 @@ Start the application using:
 
 or use <code>mvn spring-boot:run</code> command
 
-or use <code>start.bat</code> or <code>start.sh</code> script.
+or use <code>startServer.bat</code> or <code>startServer.sh</code> script.
 
 ## Connections
 Simple FIX Executor opens six connections by default:
