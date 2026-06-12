@@ -7,7 +7,7 @@ Simple FIX Executor is a simple wrapper around <a href="https://www.quickfixj.or
 FIX protocol functionality is based on <a href="https://www.quickfixj.org/">QuickFIX/J open source library</a>.
 
 ## Requirements and Dependencies
-Simple FIX Executor requires Java 11 LTS or latest Java 14.
+Simple FIX Executor requires Java 17 LTS.
 
 It is a Maven project (see pom.xml, file Apache Maven 3.6.3 is recommended) and depends on:
 * Spring Boot 4.0.7.RELEASE https://spring.io/projects/spring-boot
